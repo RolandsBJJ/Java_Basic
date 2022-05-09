@@ -10,3 +10,5 @@ FF FF FF - noskaidrot, kas tas ir
 Commit - Commit and push 
 Source control - Changes show all changes  
 Stackoverflow.com - vieta, kur meklēt risinājumus. 
+
+https://vscode.dev/github/RolandsBJJ/Java_Basic
