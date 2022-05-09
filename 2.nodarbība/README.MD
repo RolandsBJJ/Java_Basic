@@ -22,6 +22,6 @@ R burts Hexidecimal: 35322061
     Decimālais 3832203130  
 
 L Burts: decimālais  736203130  
-        Hexadecimālais: 34632061
+        Hexadecimālais: 34632061  
         Binārais: 313030313130302031303130
 
