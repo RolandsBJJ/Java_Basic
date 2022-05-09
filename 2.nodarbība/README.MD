@@ -12,3 +12,4 @@ Source control - Changes show all changes
 Stackoverflow.com - vieta, kur meklēt risinājumus. 
 
 https://vscode.dev/github/RolandsBJJ/Java_Basic
+Ar F1 var meklēt open reposotory
