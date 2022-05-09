@@ -14,3 +14,4 @@ https://www.ecowin.org/ascii.htm
 
 # Izveidojam jaunu failu, obligāti iekļaujot faila nosaukumu README.md, lai var redzēt struktūru saturam. 
 
+Ik pa, laikam jāsaglābā jvjag veikt commit
