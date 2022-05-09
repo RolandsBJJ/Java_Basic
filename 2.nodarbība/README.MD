@@ -12,4 +12,6 @@ Source control - Changes show all changes
 Stackoverflow.com - vieta, kur meklēt risinājumus. 
 
 https://vscode.dev/github/RolandsBJJ/Java_Basic
-Ar F1 var meklēt open reposotory
+Ar F1 var meklēt open reposotory 
+savienot VS code ar GitHub jainstale GitHub Pull Requests and Issues  
+https://cryptii.com/pipes/text-decimal  šo čekot
