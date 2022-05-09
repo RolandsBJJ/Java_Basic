@@ -1,4 +1,4 @@
-IDE
+IDE Integrated Development enviroment
 Savienot VSC ar savu GitHub repozitoriju
 Modificēsim repozitorijā failus lokāli
 Krāsas tiek astpoguļotas RBG #Red Green Blue
@@ -6,4 +6,6 @@ Krāsas tiek astpoguļotas RBG #Red Green Blue
 
 00 00 00 melnā krāsa
 FF FF FF - noskaidrot, kas tas ir
-Vārda un uzvārda pirmajiem burtiem sameklēt Bināro, Decimāli un Hexidecimālo kodu. 
+## Vārda un uzvārda pirmajiem burtiem sameklēt Bināro, Decimāli un Hexidecimālo kodu. 
+Commit - Commit and push 
+Source control - Changes show all changes
