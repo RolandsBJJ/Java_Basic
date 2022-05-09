@@ -9,3 +9,4 @@ FF FF FF - noskaidrot, kas tas ir
 ## Vārda un uzvārda pirmajiem burtiem sameklēt Bināro, Decimāli un Hexidecimālo kodu. 
 Commit - Commit and push 
 Source control - Changes show all changes
+Stackoverflow.com - vieta, kur meklēt risinājumus. 
