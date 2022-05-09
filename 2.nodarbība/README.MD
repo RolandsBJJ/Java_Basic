@@ -17,4 +17,11 @@ Ar F1 var meklēt open reposotory
 savienot VS code ar GitHub jainstale GitHub Pull Requests and Issues  
 https://cryptii.com/pipes/text-decimal  šo čekot
 
-! [image] 1636053928918.jfif 
+R burts Hexidecimal: 35322061  
+       Bināris: 00110101 00110010 00100000 01100001   
+    Decimālais 3832203130  
+
+L Burts: decimālais  736203130  
+        Hexadecimālais: 34632061
+        Binārais: 313030313130302031303130
+
