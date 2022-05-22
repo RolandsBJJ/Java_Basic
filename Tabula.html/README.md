@@ -1,18 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
+
 </head>
 <body>
 
-<h1>The caption element</h1>
-
 <table>
-  <caption> Cipari un krāsas</caption>
+  <caption> Cipari</caption>
   <tr>
       <th>Cipara kods </th>
       <th>Vards - R </th>
