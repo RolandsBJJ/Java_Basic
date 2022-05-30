@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-
+<body style="background-color:rgb(216, 162, 14);"> </body>
 <h2>Kaut kāda anketa</h2>
 
 <form action="/action_page.php">
