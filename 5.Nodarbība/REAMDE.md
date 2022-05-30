@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-puzzle-16.png">
+<title>Mana anketa</title>
+<link type="image/png" sizes="16x16" rel="icon" href="">
 <body style="background-color:rgb(216, 162, 14);"> </body>
 <h2>Kaut kāda anketa</h2>
 
